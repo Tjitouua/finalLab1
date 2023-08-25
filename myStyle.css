@@ -1,0 +1,61 @@
+body {
+    background-color:#003366;
+    bafont-color:
+}
+.details {
+    width:250px;
+    
+}
+
+.nav a {
+
+    text-decoration: none;
+    color:white;
+    margin-right:400px;
+    transition: transform .5s;
+}
+
+.nav a::hover {
+    color:white;
+    text-decoration:underline;
+}
+.details {
+    color:white;
+    
+}
+.head1 {
+    color:white;
+    font-family:Georgia;
+}
+.pic {
+    border: 1px solid white;
+}
+.navig a{
+    margin-right:400px;
+    color:white;
+    text-decoration:none;
+}
+.head3 {
+    color:white;
+    font-family:Georgia;
+}
+.pari {
+    color:white;
+}
+
+
+
+.navi a {
+    margin-right:400px;
+    color:white;
+    text-decoration:none;
+}
+
+.head2 {
+    color:white;
+    font-family:Georgia;
+}
+.para {
+    color:white;
+    font-family:helvetica;
+}
